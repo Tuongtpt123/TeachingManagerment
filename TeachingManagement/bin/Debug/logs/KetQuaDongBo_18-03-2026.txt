@@ -1,0 +1,14 @@
+===== KẾT QUẢ ĐỒNG BỘ =====
+Thời gian: 18/03/2026 09:35:06
+BỎ QUA: SV SV001 không thuộc lớp của bài tập
+CẬP NHẬT: SV002_DamVinhLong
+BỎ QUA: Không tìm thấy SV VS001
+===== KẾT THÚC ĐỒNG BỘ =====
+
+===== KẾT QUẢ ĐỒNG BỘ =====
+Thời gian: 18/03/2026 09:37:35
+BỎ QUA: SV SV001 không thuộc lớp của bài tập
+CẬP NHẬT: SV002_DamVinhLong
+BỎ QUA: Không tìm thấy SV VS001
+===== KẾT THÚC ĐỒNG BỘ =====
+

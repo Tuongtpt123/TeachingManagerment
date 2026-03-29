@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\For Study\\Project\\TeachingManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|d:\\for study\\project\\teachingmanagement\\teachingmanagement\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmlophocedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmlophocedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmlophocedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmlophocedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\lophocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\lophocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\baitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\baitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmbaitapadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmbaitapadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\nhacnhoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\nhacnhoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\nhacnhoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\nhacnhoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmbaitapedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmbaitapedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\sinhvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\sinhvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmbaitapedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmbaitapedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\baitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\baitapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\taikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\taikhoanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmbaitapadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmbaitapadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmsinhvienedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmsinhvienedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmsinhvienadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmsinhvienadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmlophocdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmlophocdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmgiangvienedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmgiangvienedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmgiangvienchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmgiangvienchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\lophocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\lophocform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmsinhvienadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmsinhvienadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\sinhvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\sinhvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|D:\\For Study\\Project\\TeachingManagement\\teachingmanagement\\frmlophocdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB75DDF-0FAC-4222-8FB8-1AE32EA3EF73}|TeachingManagement\\TeachingManagement.csproj|solutionrelative:teachingmanagement\\frmlophocdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLopHocEdit.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocEdit.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmLopHocEdit.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocEdit.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmLopHocEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:26:57.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLopHocEdit.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocEdit.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmLopHocEdit.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocEdit.cs",
+              "RelativeToolTip": "TeachingManagement\\FrmLopHocEdit.cs",
+              "ViewState": "AgIAAKcDAAAAAAAAAAAjwLsDAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:43:27.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\Services\\NotificationService.cs",
+              "RelativeToolTip": "TeachingManagement\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAvwKkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:16:59.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\MainForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\MainForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:26:48.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\HomeForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\HomeForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\HomeForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:44:57.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\HomeForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\HomeForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\HomeForm.cs",
+              "RelativeToolTip": "TeachingManagement\\HomeForm.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADgv3MAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:49:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LopHocForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\LopHocForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\LopHocForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\LopHocForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\LopHocForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:09:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\MainForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\MainForm.cs",
+              "RelativeToolTip": "TeachingManagement\\MainForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:24:00.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaiTapForm.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\BaiTapForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\BaiTapForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\BaiTapForm.cs",
+              "RelativeToolTip": "TeachingManagement\\BaiTapForm.cs",
+              "ViewState": "AgIAAG4CAAAAAAAAAAAcwIACAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:04:23.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBaiTapAdd.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapAdd.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmBaiTapAdd.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapAdd.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmBaiTapAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:43:14.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhacNhoForm.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\NhacNhoForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\NhacNhoForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\NhacNhoForm.cs",
+              "RelativeToolTip": "TeachingManagement\\NhacNhoForm.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAMAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:25:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhacNhoForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\NhacNhoForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\NhacNhoForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\NhacNhoForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\NhacNhoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:36:38.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmBaiTapEdit.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapEdit.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmBaiTapEdit.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapEdit.cs",
+              "RelativeToolTip": "TeachingManagement\\FrmBaiTapEdit.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAYwGMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:03:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SinhVienForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\SinhVienForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\SinhVienForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\SinhVienForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\SinhVienForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:47:46.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBaiTapEdit.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapEdit.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmBaiTapEdit.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapEdit.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmBaiTapEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:44:50.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaiKhoanForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\TaiKhoanForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\TaiKhoanForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\TaiKhoanForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\TaiKhoanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:47:46.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaiTapForm.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\BaiTapForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\BaiTapForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\BaiTapForm.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\BaiTapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T13:47:55.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmBaiTapAdd.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapAdd.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmBaiTapAdd.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmBaiTapAdd.cs",
+              "RelativeToolTip": "TeachingManagement\\FrmBaiTapAdd.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwC8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:02:08.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmSinhVienEdit.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmSinhVienEdit.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmSinhVienEdit.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmSinhVienEdit.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmSinhVienEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:37:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmSinhVienAdd.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmSinhVienAdd.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmSinhVienAdd.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmSinhVienAdd.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmSinhVienAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:11:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmLopHocDetail.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocDetail.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmLopHocDetail.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocDetail.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmLopHocDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:41:29.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmGiangVienEdit.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmGiangVienEdit.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmGiangVienEdit.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmGiangVienEdit.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmGiangVienEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:46:09.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmGiangVienChangePass.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmGiangVienChangePass.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmGiangVienChangePass.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmGiangVienChangePass.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmGiangVienChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:44:58.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LopHocForm.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\LopHocForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\LopHocForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\LopHocForm.cs",
+              "RelativeToolTip": "TeachingManagement\\LopHocForm.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAiwE0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:50:10.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmAuth.cs [Design]",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmAuth.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmAuth.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmAuth.cs [Design]",
+              "RelativeToolTip": "TeachingManagement\\FrmAuth.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T13:56:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmSinhVienAdd.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmSinhVienAdd.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmSinhVienAdd.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmSinhVienAdd.cs",
+              "RelativeToolTip": "TeachingManagement\\FrmSinhVienAdd.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:11:35.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SinhVienForm.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\SinhVienForm.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\SinhVienForm.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\SinhVienForm.cs",
+              "RelativeToolTip": "TeachingManagement\\SinhVienForm.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAiwL4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:11:24.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmLopHocDetail.cs",
+              "DocumentMoniker": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocDetail.cs",
+              "RelativeDocumentMoniker": "TeachingManagement\\FrmLopHocDetail.cs",
+              "ToolTip": "D:\\For Study\\Project\\TeachingManagement\\TeachingManagement\\FrmLopHocDetail.cs",
+              "RelativeToolTip": "TeachingManagement\\FrmLopHocDetail.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwPMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:36:29.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
